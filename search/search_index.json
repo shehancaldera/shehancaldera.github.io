@@ -1,0 +1,69 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Shehan Caldera\n\n\nHello World! I'm Shehan. I'm a research student currently involved in deep learning for robotics. I like working with machine learning, analytics, and robotics projects.\n\n\nApart from coding (like all the time), I like travelling, photography, and driving around in my Ford.\n\n\nIf you have any project that you would like my insight or collaboration feel free to email at shehancaldera@gmail.com with a clear subject line.\n\n\nProjects I've worked:\n\n\n\n\n\n\nRobotic grasping with deep learning\n\n\n\n\n\n\nDetecting robotic grasps usign deep convolutional neural networks\n\n\n\n\n\n\nDesign and development of a tennis ball launching machine\n\n\n\n\n\n\nDevelopment of a RGB color detection system\n\n\n\n\n\n\nDesign of a robotic platform for variable terrains\n\n\n\n\n\n\nGrid solving robot for industrial payload delivery \n\n\n\n\n\n\nFind me:",
+            "title": "Home"
+        },
+        {
+            "location": "/#shehan-caldera",
+            "text": "Hello World! I'm Shehan. I'm a research student currently involved in deep learning for robotics. I like working with machine learning, analytics, and robotics projects.  Apart from coding (like all the time), I like travelling, photography, and driving around in my Ford.  If you have any project that you would like my insight or collaboration feel free to email at shehancaldera@gmail.com with a clear subject line.",
+            "title": "Shehan Caldera"
+        },
+        {
+            "location": "/#projects-ive-worked",
+            "text": "Robotic grasping with deep learning    Detecting robotic grasps usign deep convolutional neural networks    Design and development of a tennis ball launching machine    Development of a RGB color detection system    Design of a robotic platform for variable terrains    Grid solving robot for industrial payload delivery",
+            "title": "Projects I've worked:"
+        },
+        {
+            "location": "/#find-me",
+            "text": "",
+            "title": "Find me:"
+        },
+        {
+            "location": "/projects/",
+            "text": "Projects",
+            "title": "Projects"
+        },
+        {
+            "location": "/projects/#projects",
+            "text": "",
+            "title": "Projects"
+        },
+        {
+            "location": "/publications/",
+            "text": "Publications",
+            "title": "Publications"
+        },
+        {
+            "location": "/publications/#publications",
+            "text": "",
+            "title": "Publications"
+        },
+        {
+            "location": "/tutorials/",
+            "text": "Commands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Tutorials"
+        },
+        {
+            "location": "/tutorials/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/tutorials/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/about/",
+            "text": "About\n\n\nContact details:\n\n\nemail: shehancaldera@gmail.com",
+            "title": "About"
+        },
+        {
+            "location": "/about/#about",
+            "text": "Contact details:  email: shehancaldera@gmail.com",
+            "title": "About"
+        }
+    ]
+}
