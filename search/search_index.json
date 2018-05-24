@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/",
-            "text": "Shehan Caldera\n\n\nHello World! I'm Shehan. I'm a research student currently involved in deep learning for robotics. I like working with machine learning, analytics, and robotics projects.\n\n\nApart from coding (like all the time), I like travelling, photography, and driving around in my Ford.\n\n\nIf you have any project that you would like my insight or collaboration feel free to email at shehancaldera@gmail.com with a clear subject line.\n\n\nProjects I've worked:\n\n\n\n\n\n\nRobotic grasping with deep learning\n\n\n\n\n\n\nDetecting robotic grasps usign deep convolutional neural networks\n\n\n\n\n\n\nDesign and development of a tennis ball launching machine\n\n\n\n\n\n\nDevelopment of a RGB color detection system\n\n\n\n\n\n\nDesign of a robotic platform for variable terrains\n\n\n\n\n\n\nGrid solving robot for industrial payload delivery \n\n\n\n\n\n\nFind me:",
+            "text": "Shehan Caldera\n\n\nWelcome\n\n\nHello World! I'm Shehan (goes by the online handle \n@shehancaldera\n). I'm a research student from Edith Cowan University, Western Australia. And I'm currently involved in deep learning for robotics. I like working with machine learning, deep learning, deep reinforcement learning and other robotics projects.\n\n\nApart from working with robotics, I like travelling, photography, camping and driving around in my Ford.\n\n\nIf you have any project that you would like my insight or collaboration feel free to email at \nshehancaldera@gmail.com\n with a clear subject line.\n\n\nProjects I've worked:\n\n\n\n\n\n\nRobotic grasping with deep learning\n\n\n\n\n\n\nDetecting robotic grasps usign deep convolutional neural networks\n\n\n\n\n\n\nDesign and development of a tennis ball launching machine\n\n\n\n\n\n\nDevelopment of a RGB color detection system\n\n\n\n\n\n\nDesign of a robotic platform for variable terrains\n\n\n\n\n\n\nGrid solving robot for industrial payload delivery \n\n\n\n\n\n\nFind me\n\n\nGithub & LinkedIn : \n@shehancaldera",
             "title": "Home"
         },
         {
             "location": "/#shehan-caldera",
-            "text": "Hello World! I'm Shehan. I'm a research student currently involved in deep learning for robotics. I like working with machine learning, analytics, and robotics projects.  Apart from coding (like all the time), I like travelling, photography, and driving around in my Ford.  If you have any project that you would like my insight or collaboration feel free to email at shehancaldera@gmail.com with a clear subject line.",
+            "text": "",
             "title": "Shehan Caldera"
+        },
+        {
+            "location": "/#welcome",
+            "text": "Hello World! I'm Shehan (goes by the online handle  @shehancaldera ). I'm a research student from Edith Cowan University, Western Australia. And I'm currently involved in deep learning for robotics. I like working with machine learning, deep learning, deep reinforcement learning and other robotics projects.  Apart from working with robotics, I like travelling, photography, camping and driving around in my Ford.  If you have any project that you would like my insight or collaboration feel free to email at  shehancaldera@gmail.com  with a clear subject line.",
+            "title": "Welcome"
         },
         {
             "location": "/#projects-ive-worked",
@@ -17,8 +22,8 @@
         },
         {
             "location": "/#find-me",
-            "text": "",
-            "title": "Find me:"
+            "text": "Github & LinkedIn :  @shehancaldera",
+            "title": "Find me"
         },
         {
             "location": "/projects/",
